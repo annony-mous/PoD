@@ -1,4 +1,4 @@
-# Bidding Transaction of Miner M1 (bTX)
+# Bidding Transaction of Miner M2 (bTX2)
 
 | Field        | Details |
 |--------------|---------|

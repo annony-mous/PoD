@@ -10,7 +10,7 @@ Dataset containing potholes in road images
 - Dataset Size: > 10  
 
 ## Statistical Measures
-- Image size: Minimum 1280 × 760  
+- Image size: Minimum 500 × 300  
 - Mean: Red – 130, Green – 140, Blue – 160 (nearly)  
 - Standard deviation: Red – 18, Green – 20, Blue – 22 (nearly)  
 - Skewness: No more than 0.0001  
