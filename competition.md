@@ -17,7 +17,7 @@ Dataset containing potholes in road images
 - Kurtosis: All channels – 3.01 (nearly)  
 - Pixel distribution: Relatively uniform without dominant peaks or gaps  
 - SSIM: ≤ 0.9 (nearly)  
-- Outliers: 0  
+- Outliers: 0 (or 1)
 
 ## Model-based Evaluation
 - Pre-trained model name: Ultralytics YOLOv8  
